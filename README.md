@@ -1,4 +1,4 @@
-# GAH!! The Global Advancement of Humanity
+# GAH! The Global Advancement of Humanity
 
 Inspired by the New Hampshire Public Radio's podcast of The Public Comment Period (Podcast on Civics 101). 
 
